@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Custom Typing SVG with Emerald Accents -->
+  <!-- Custom Typing SVG with Python Print and Emerald Accents -->
   <a href="https://amitesh.tech">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=10B981&center=true&vCenter=true&width=850&lines=System.out.println(%22Hi%2C+I'm+Amitesh+Gupta%22)%3B;AI+%26+Backend+Engineer+%7C+Prev+Intern+%40+Gyanama;Architecting+Event-Driven+Microservices+%26+RAG+Systems;CodeChef+4-Star+%7C+Codeforces+Specialist+%7C+300%2B+LeetCode" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=10B981&center=true&vCenter=true&width=850&lines=print(%22Hi%2C+I'm+Amitesh+Gupta%22);AI+%26+Backend+Engineer+%7C+Prev+Intern+%40+Gyanama;Architecting+Event-Driven+Microservices+%26+RAG+Systems;CodeChef+4-Star+%7C+Codeforces+Specialist+%7C+300%2B+LeetCode" alt="Typing SVG" />
   </a>
   <br>
 
@@ -15,18 +15,12 @@
 
 <br>
 
-<!-- Terminal-Style About Section -->
+<!-- Terminal-Style About Section (Tables removed to prevent white borders) -->
 <div align="center">
-  <table>
-    <tr>
-      <td align="left" width="100%" bgcolor="#0d1117">
-        <h3 align="center"><code style="color: #10B981;">> whoami && cat current_status.txt</code></h3>
-        <p align="center">
-          I am a <strong>Computer Science Engineering student @ IIIT Kota (2023-2027)</strong> with a 7.98 CGPA. <br>Recently, I worked as an <strong>AI / Backend Engineer Intern at Gyanama</strong>, where I architected real-time voice AI agents achieving sub-second latency and built event-driven syncing systems using Redis Streams and FastAPI.
-        </p>
-      </td>
-    </tr>
-  </table>
+  <h3 align="center"><code style="color: #10B981;">> whoami && cat current_status.txt</code></h3>
+  <p align="center">
+    I am a <strong>Computer Science Engineering student @ IIIT Kota (2023-2027)</strong> with a 7.98 CGPA. <br>Recently, I worked as an <strong>AI / Backend Engineer Intern at Gyanama</strong>, where I architected real-time voice AI agents achieving sub-second latency and built event-driven syncing systems using Redis Streams and FastAPI.
+  </p>
 </div>
 
 <br>
@@ -42,33 +36,29 @@
 ### 🛠️ Technical Arsenal
 
 <div align="center">
-  <table>
-    <tr>
-      <th align="center">Languages & Core</th>
-      <th align="center">Backend & Databases</th>
-      <th align="center">AI, Data & DevOps</th>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=10B981" /><br>
-        <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=10B981" /><br>
-        <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=10B981" /><br>
-        <img src="https://img.shields.io/badge/Swift-0d1117?style=flat-square&logo=swift&logoColor=10B981" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=10B981" /><br>
-        <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=10B981" /><br>
-        <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=10B981" /><br>
-        <img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=10B981" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=10B981" /><br>
-        <img src="https://img.shields.io/badge/LanceDB-0d1117?style=flat-square&logo=databricks&logoColor=10B981" /><br>
-        <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=10B981" /><br>
-        <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=10B981" />
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <strong>Languages & Core</strong><br>
+    <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=10B981" />
+    <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=10B981" />
+    <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=10B981" />
+    <img src="https://img.shields.io/badge/Swift-0d1117?style=flat-square&logo=swift&logoColor=10B981" />
+  </p>
+
+  <p align="center">
+    <strong>Backend & Databases</strong><br>
+    <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=10B981" />
+    <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=10B981" />
+    <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=10B981" />
+    <img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=10B981" />
+  </p>
+
+  <p align="center">
+    <strong>AI, Data & DevOps</strong><br>
+    <img src="https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=10B981" />
+    <img src="https://img.shields.io/badge/LanceDB-0d1117?style=flat-square&logo=databricks&logoColor=10B981" />
+    <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=10B981" />
+    <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=10B981" />
+  </p>
 </div>
 
 <br>
@@ -102,8 +92,8 @@
 ### 📈 GitHub Telemetry
 
 <div align="center">
-  <!-- Live GitHub Contribution Chart that works instantly -->
-  <img src="https://ghchart.rshah.org/10B981/singlaamitesh" alt="GitHub Contribution Chart" width="100%" />
+  <!-- Replaced the white grid with a sleek Dark Mode Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=singlaamitesh&bg_color=0d1117&color=10B981&line=10B981&point=10B981&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </div>
 <br>
 <div align="center">
