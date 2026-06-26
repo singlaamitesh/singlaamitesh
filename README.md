@@ -36,28 +36,32 @@
 ### 🛠️ Technical Arsenal
 
 <div align="center">
+  <h4><code style="color: #10B981;">// Languages & Core</code></h4>
   <p align="center">
-    <strong>Languages & Core</strong><br>
-    <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=10B981" />
-    <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=10B981" />
-    <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=10B981" />
-    <img src="https://img.shields.io/badge/Swift-0d1117?style=flat-square&logo=swift&logoColor=10B981" />
+    <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=10B981" />
+    <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=10B981" />
+    <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=10B981" />
+    <img src="https://img.shields.io/badge/Swift-0d1117?style=for-the-badge&logo=swift&logoColor=10B981" />
   </p>
 
+  <br>
+
+  <h4><code style="color: #10B981;">// Backend & Databases</code></h4>
   <p align="center">
-    <strong>Backend & Databases</strong><br>
-    <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=10B981" />
-    <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=10B981" />
-    <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=10B981" />
-    <img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=10B981" />
+    <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=10B981" />
+    <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=10B981" />
+    <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=10B981" />
+    <img src="https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=10B981" />
   </p>
 
+  <br>
+
+  <h4><code style="color: #10B981;">// AI, Data & DevOps</code></h4>
   <p align="center">
-    <strong>AI, Data & DevOps</strong><br>
-    <img src="https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=10B981" />
-    <img src="https://img.shields.io/badge/LanceDB-0d1117?style=flat-square&logo=databricks&logoColor=10B981" />
-    <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=10B981" />
-    <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=10B981" />
+    <img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=10B981" />
+    <img src="https://img.shields.io/badge/LanceDB-0d1117?style=for-the-badge&logo=databricks&logoColor=10B981" />
+    <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=10B981" />
+    <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=10B981" />
   </p>
 </div>
 
