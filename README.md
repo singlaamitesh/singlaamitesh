@@ -88,14 +88,13 @@
   <a href="https://github.com/singlaamitesh/CODESYNC">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=singlaamitesh&repo=CODESYNC&theme=transparent&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=c9d1de&icon_color=10B981" width="48%" />
   </a>
-  <!-- Ensure 'algorhythm' is a PUBLIC repository on your GitHub, otherwise this card will keep failing -->
   <a href="https://github.com/singlaamitesh/DSA-VISU">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=singlaamitesh&repo=algorhythm&theme=transparent&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=c9d1de&icon_color=10B981" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=singlaamitesh&repo=DSA-VISU&theme=transparent&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=c9d1de&icon_color=10B981" width="48%" />
   </a>
 </div>
 <p align="center">
   <em><strong>CodeSync AI:</strong> Browser-based collaborative editor with Y.js CRDTs, WebSocket syncing, and LanceDB RAG integration.</em><br>
-  <em><strong>Algorhythm:</strong> LangGraph orchestration pipeline generating interactive UI components dynamically from natural language.</em>
+  <em><strong>Algorhythm (DSA-VISU):</strong> Interactive algorithm visualizer featuring FastAPI, LangGraph orchestration, and React 18.</em>
 </p>
 
 ---
