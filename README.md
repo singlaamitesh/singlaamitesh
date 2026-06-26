@@ -88,8 +88,9 @@
   <a href="https://github.com/singlaamitesh/CODESYNC">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=singlaamitesh&repo=CODESYNC&theme=transparent&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=c9d1de&icon_color=10B981" width="48%" />
   </a>
-  <a href="https://github.com/singlaamitesh/Algorhythm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=singlaamitesh&repo=Algorhythm&theme=transparent&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=c9d1de&icon_color=10B981" width="48%" />
+  <!-- Ensure 'algorhythm' is a PUBLIC repository on your GitHub, otherwise this card will keep failing -->
+  <a href="https://github.com/singlaamitesh/DSA-VISU">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=singlaamitesh&repo=algorhythm&theme=transparent&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=c9d1de&icon_color=10B981" width="48%" />
   </a>
 </div>
 <p align="center">
