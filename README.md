@@ -37,6 +37,8 @@ I'm a **B.Tech CSE student @ IIIT Kota** building production AI systems that act
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/singlaamitesh/singlaamitesh/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
+  <!-- Fallback if snake hasn't been generated yet -->
+  <!-- ![Snake](https://github.com/singlaamitesh/singlaamitesh/blob/output/github-contribution-grid-snake.svg) -->
 </p>
 
 ---
