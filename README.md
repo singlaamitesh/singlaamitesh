@@ -22,7 +22,7 @@
       <td align="left" width="100%" bgcolor="#0d1117">
         <h3 align="center"><code style="color: #10B981;">> whoami && cat current_status.txt</code></h3>
         <p align="center">
-          I am a <strong>Computer Science Engineering student @ IIIT Kota (2023-2027)</strong> with a 7.98 CGPA[cite: 1]. <br>Recently, I worked as an <strong>AI / Backend Engineer Intern at Gyanama</strong>, where I architected real-time voice AI agents achieving sub-second latency and built event-driven syncing systems using Redis Streams and FastAPI[cite: 1].
+          I am a <strong>Computer Science Engineering student @ IIIT Kota (2023-2027)</strong> with a 7.98 CGPA. <br>Recently, I worked as an <strong>AI / Backend Engineer Intern at Gyanama</strong>, where I architected real-time voice AI agents achieving sub-second latency and built event-driven syncing systems using Redis Streams and FastAPI.
         </p>
       </td>
     </tr>
@@ -33,9 +33,9 @@
 
 ### ⚡ Engineering Competencies
 
-> **AI & RAG Architectures:** Building production LLM orchestration pipelines (LangGraph, LangChain), implementing LanceDB vector embeddings, and creating strict output parsing engines with Pydantic fallbacks[cite: 1].<br>
-> **High-Performance Backend:** Developing decoupled microservices with FastAPI, managing real-time WebSocket syncs (sub-100ms latency), and optimizing concurrent cloud workers[cite: 1].<br>
-> **Algorithmic Mastery:** 4-Star on CodeChef (1800+), Codeforces Specialist (1400+), and 300+ problems solved on LeetCode[cite: 1].
+> **AI & RAG Architectures:** Building production LLM orchestration pipelines (LangGraph, LangChain), implementing LanceDB vector embeddings, and creating strict output parsing engines with Pydantic fallbacks.<br>
+> **High-Performance Backend:** Developing decoupled microservices with FastAPI, managing real-time WebSocket syncs (sub-100ms latency), and optimizing concurrent cloud workers.<br>
+> **Algorithmic Mastery:** 4-Star on CodeChef (1800+), Codeforces Specialist (1400+), and 300+ problems solved on LeetCode.
 
 ---
 
@@ -51,7 +51,8 @@
     <tr>
       <td align="center">
         <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=10B981" /><br>
-        <img src="https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=c%2B%2B&logoColor=10B981" /><br>
+        <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=10B981" /><br>
+        <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=10B981" /><br>
         <img src="https://img.shields.io/badge/Swift-0d1117?style=flat-square&logo=swift&logoColor=10B981" />
       </td>
       <td align="center">
@@ -74,10 +75,10 @@
 
 ### 🏆 Certifications & Milestones
 
-*   **IgnitionHack 2025 Finalist:** Ranked in the top 10 out of 200+ participating teams[cite: 1].
-*   **IBM Generative AI Engineering Professional Certificate** (2025)[cite: 1].
-*   **IBM AI Developer Professional Certificate** (2024)[cite: 1].
-*   **Google Data Analytics Professional Certificate** (2024)[cite: 1].
+*   **IgnitionHack 2025 Finalist:** Ranked in the top 10 out of 200+ participating teams.
+*   **IBM Generative AI Engineering Professional Certificate** (2025).
+*   **IBM AI Developer Professional Certificate** (2024).
+*   **Google Data Analytics Professional Certificate** (2024).
 
 ---
 
@@ -92,8 +93,8 @@
   </a>
 </div>
 <p align="center">
-  <em><strong>CodeSync AI:</strong> Browser-based collaborative editor with Y.js CRDTs, WebSocket syncing, and LanceDB RAG integration</em>[cite: 1].<br>
-  <em><strong>Algorhythm:</strong> LangGraph orchestration pipeline generating interactive UI components dynamically from natural language</em>[cite: 1].
+  <em><strong>CodeSync AI:</strong> Browser-based collaborative editor with Y.js CRDTs, WebSocket syncing, and LanceDB RAG integration.</em><br>
+  <em><strong>Algorhythm:</strong> LangGraph orchestration pipeline generating interactive UI components dynamically from natural language.</em>
 </p>
 
 ---
@@ -101,8 +102,8 @@
 ### 📈 GitHub Telemetry
 
 <div align="center">
-  <!-- Contribution Snake dynamically adjusts to dark mode -->
-  <img src="https://raw.githubusercontent.com/singlaamitesh/singlaamitesh/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+  <!-- Live GitHub Contribution Chart that works instantly -->
+  <img src="https://ghchart.rshah.org/10B981/singlaamitesh" alt="GitHub Contribution Chart" width="100%" />
 </div>
 <br>
 <div align="center">
