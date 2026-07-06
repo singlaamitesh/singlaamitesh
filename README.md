@@ -86,9 +86,9 @@ Competitive Programming:
 
 ---
 
-# 🚀 Featured Projects
 
-<p align="center">
+
+<!-- <p align="center">
 
 <a href="https://github.com/singlaamitesh/CODESYNC">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=singlaamitesh&repo=CODESYNC&theme=tokyonight&hide_border=true"/>
@@ -98,7 +98,7 @@ Competitive Programming:
 <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=singlaamitesh&repo=DSA-VISU&theme=tokyonight&hide_border=true"/>
 </a>
 
-</p>
+</p> -->
 
 ---
 
