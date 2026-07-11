@@ -81,7 +81,7 @@ Competitive Programming:
 # ⚒️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,ts,js,fastapi,flask,nodejs,react,nextjs,postgres,mongodb,redis,docker,kubernetes,linux,git,github,aws&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,fastapi,flask,postgres,mongodb,redis,docker,kubernetes,linux,git,github&perline=6"/>
 </p>
 
 ---
